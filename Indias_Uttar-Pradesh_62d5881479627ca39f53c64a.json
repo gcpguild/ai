@@ -1,0 +1,676 @@
+{
+  "search_metadata": {
+    "id": "62d5881479627ca39f53c64a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/13a652b2f090a99d/62d5881479627ca39f53c64a.json",
+    "created_at": "2022-07-18 16:19:32 UTC",
+    "processed_at": "2022-07-18 16:19:32 UTC",
+    "google_url": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&oq=hindu+temples+in+uttar+pradesh&hl=en&gl=in&num=20&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/13a652b2f090a99d/62d5881479627ca39f53c64a.html",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hindu temples in uttar pradesh",
+    "google_domain": "google.co.in",
+    "hl": "en",
+    "gl": "in",
+    "num": "20",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "hindu temples in uttar pradesh",
+    "total_results": 6130000,
+    "time_taken_displayed": 0.59
+  },
+  "local_map": {
+    "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=hindu+temples+in+uttar+pradesh&npsic=0&rflfq=1&rldoc=1&rllag=25529192,80825596,265850&tbm=lcl&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQtgN6BAgVEAE",
+    "image": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/c99a2426fbd750664e0659c794cff6d1.png",
+    "gps_coordinates": {
+      "latitude": 25.529192,
+      "longitude": 80.825596,
+      "altitude": 265850
+    }
+  },
+  "local_results": {
+    "more_locations_link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&tbs=lf:1,lf_ui:1&tbm=lcl&q=hindu+temples+in+uttar+pradesh&rflfq=1&num=10&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQjGp6BAgYEAE",
+    "places": [
+      {
+        "position": 1,
+        "title": "Shri Renukeshwar Mahadev Mandir",
+        "place_id": "4610287155285866132",
+        "lsig": "AB86z5WjM4UCeTbaUzmXaJr_GO_J",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&lsig=AB86z5WjM4UCeTbaUzmXaJr_GO_J&ludocid=4610287155285866132&num=20&q=hindu+temples+in+uttar+pradesh&tbm=lcl",
+        "rating": 4.7,
+        "type": "Shri Renukeshwar Mahadev Mandir",
+        "hours": "Renukoot, Uttar Pradesh",
+        "address": "4.7(1.4T) · Hindu temple",
+        "thumbnail": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/ec7499fb966d68849635f6f2ebeee5cc3fbe9e69532033fff30504a2b865494b43af4b942150c340.jpeg"
+      },
+      {
+        "position": 2,
+        "title": "Lord Shiv Temple",
+        "place_id": "5144077958245147027",
+        "lsig": "AB86z5VECGAsEmkKxTPqOtJTYXeG",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&lsig=AB86z5VECGAsEmkKxTPqOtJTYXeG&ludocid=5144077958245147027&num=20&q=hindu+temples+in+uttar+pradesh&tbm=lcl",
+        "rating": 4.6,
+        "type": "Lord Shiv Temple",
+        "hours": "Lucknow, Uttar Pradesh",
+        "address": "4.6(5) · Hindu temple",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXVboazOcLEJmIZtB_GuIWTaBmzMPlinaU-Ag5=w92-h92-n-k-no"
+      },
+      {
+        "position": 3,
+        "title": "Neelkantheshwar",
+        "place_id": "1091521490322902539",
+        "lsig": "AB86z5WbtP89Y_1_OpMoWj3mTMWa",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&lsig=AB86z5WbtP89Y_1_OpMoWj3mTMWa&ludocid=1091521490322902539&num=20&q=hindu+temples+in+uttar+pradesh&tbm=lcl",
+        "rating": 4.1,
+        "type": "Neelkantheshwar",
+        "hours": "Tenga, Uttar Pradesh",
+        "address": "4.1(26) · Hindu temple",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPt3i6AMCWsOajbOcCur4EIYMRoxNqxHbz1AjbW=w92-h92-n-k-no"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "A temple in UP's Gorakhpur smashes Hindu temples' anti-Dalit ...",
+      "link": "https://www.youtube.com/watch?v=81r0mnV7sD0",
+      "thumbnail": "https://i.ytimg.com/vi/81r0mnV7sD0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mP9_0JmAEonm9Fs1EYnkGB3I8c3Q",
+      "channel": "ANI News",
+      "duration": "2:01",
+      "platform": "YouTube",
+      "date": "26-Dec-2018"
+    },
+    {
+      "position": 2,
+      "title": "यू.पी. के १० बड़े मंदिर | 10 Must See Temples in Uttar Pradesh ...",
+      "link": "https://www.youtube.com/watch?v=SdFYZUpw5bo",
+      "thumbnail": "https://i.ytimg.com/vi/SdFYZUpw5bo/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mjzcAJ8dbsGHgttnaybRV37ZCK-w",
+      "channel": "Hindu Rituals - हिन्दू रीति रिवाज",
+      "duration": "3:34",
+      "platform": "YouTube",
+      "date": "24-Dec-2019"
+    },
+    {
+      "position": 3,
+      "title": "Uttar Pradesh: Devotees Throng To Temple To Offer Prayers ...",
+      "link": "https://www.youtube.com/watch?v=qnfhHLfVD20",
+      "thumbnail": "https://i.ytimg.com/vi/qnfhHLfVD20/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kOi1KB2AsSUAlnUT1a9X1MhaOyKw",
+      "channel": "Republic World",
+      "duration": "4:17",
+      "platform": "YouTube",
+      "date": "06-Jul-2020"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Temples to see in Varanasi",
+      "items": [
+        {
+          "name": "Shri Kashi Vishwanath Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTYY8nKZGshOZPx3NQiiyQr1NZWQuXZ6wUzhVoD-FIo3sUIhXJh0ksc3cjAR9cNflvwsbBPnaEG&s=19",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Kashi+Vishwanath+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtONjUxkipJzS3ISS1WKMlXKE5NVcjMUyhLLErMSyzOjJLLyMxLKVWAqQBKlZaUJBYpFBQlpqQWZ5xiRJhzipFXP13f0DAl3iitKjnH8BQjN0jO0KjKrKw4HiabVJ4Sn1VolHOKkQskm25qEm9a-ItRKgTDDWFQNzSwMC5iFfdOLM7IVAjLLM4oB4qWZChANNxik2Qw_djKpHNsfcBf_pV-zuoqeYuzEtTmzpNZBgC8rbF55gAAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAB6BAgrEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Kashi+Vishwanath+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtONjUxkipJzS3ISS1WKMlXKE5NVcjMUyhLLErMSyzOjJLLyMxLKVWAqQBKlZaUJBYpFBQlpqQWZ5xiRJhzipFXP13f0DAl3iitKjnH8BQjN0jO0KjKrKw4HiabVJ4Sn1VolHOKkQskm25qEm9a-ItRKgTDDWFQNzSwMC5iFfdOLM7IVAjLLM4oB4qWZChANNxik2Qw_djKpHNsfcBf_pV-zuoqeYuzEtTmzpNZBgC8rbF55gAAAA"
+        },
+        {
+          "name": "Sarnath Buddhist Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzXurVuuOovWpGK9OT-8S8Eo3qeAdkf3gF6iDoAmGbjziZjpXamR6&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Sarnath+Buddhist+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyJN0qrSs4xNJIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xYhq7ilGbpCcoVGVWVlxPEw2qTwlPqvQKOcUIxdINt3UJN608BejVAiGG8KgbmhgYVzEKh6cWJSXWJKh4FSakpKRWVyiANFwi02SwfRjK5POsfUBf_lX-jmrq-QtzkpQmztPZhkA0BRrCuoAAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAF6BAgrEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Sarnath+Buddhist+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyJN0qrSs4xNJIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xYhq7ilGbpCcoVGVWVlxPEw2qTwlPqvQKOcUIxdINt3UJN608BejVAiGG8KgbmhgYVzEKh6cWJSXWJKh4FSakpKRWVyiANFwi02SwfRjK5POsfUBf_lX-jmrq-QtzkpQmztPZhkA0BRrCuoAAAA"
+        },
+        {
+          "name": "Shri Durga Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEm5_VUCfSBe9Bgs2SZ425Jei-Nje7rfNS_kWNhIov8QjzyOdQHfQD&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Durga+Mandir,+Varanasi&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDSqMisrjjeSKknNLchJLVYoyVcoTk1VyMxTKEssSsxLLM6MksvIzEspVYCpAEqVlpQkFikUFCWmpBZnnGLkBJlklp1sanKKkVc_Xd_QMCXeKK0qOcfwFCOyLTDZpPKU-KxCo5xTjFwg2XRTk3jTwl-MUiEYbgiDuqGBhXERq5hLaVF6ooJvYl5KZpEOXO4WmySD6cdWJp1j6wP-8q_0c1ZXyVuclaA2d57MMgDs0o3r5wAAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAJ6BAgrEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Durga+Mandir%2C+Varanasi&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDSqMisrjjeSKknNLchJLVYoyVcoTk1VyMxTKEssSsxLLM6MksvIzEspVYCpAEqVlpQkFikUFCWmpBZnnGLkBJlklp1sanKKkVc_Xd_QMCXeKK0qOcfwFCOyLTDZpPKU-KxCo5xTjFwg2XRTk3jTwl-MUiEYbgiDuqGBhXERq5hLaVF6ooJvYl5KZpEOXO4WmySD6cdWJp1j6wP-8q_0c1ZXyVuclaA2d57MMgDs0o3r5wAAAA"
+        },
+        {
+          "name": "Shree Kaal Bhairav Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4TXzfLlILUyLnsqg__8fDbFjQ3bRoy6LBawGuVSB7c_aPaGCi_XJ&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Kaal+Bhairav+Mandir,+Varanasi&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwqT4nPKjTKMZIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xQgxNyXeKK0qOcfwFCM3SM7QqMqsrDgeJguz9RQjF0g23dQk3rTwF6NUCIYbwqBuaGBhXMQq652YmKPglJGYWZRYpuCbmJeSWaQDV3KLTZLB9GMrk86x9QF_-Vf6Oaur5C3OSlCbO09mGQAnjIc48AAAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAN6BAgrEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Kaal+Bhairav+Mandir%2C+Varanasi&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwqT4nPKjTKMZIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xQgxNyXeKK0qOcfwFCM3SM7QqMqsrDgeJguz9RQjF0g23dQk3rTwF6NUCIYbwqBuaGBhXMQq652YmKPglJGYWZRYpuCbmJeSWaQDV3KLTZLB9GMrk86x9QF_-Vf6Oaur5C3OSlCbO09mGQAnjIc48AAAAA"
+        },
+        {
+          "name": "List of Hindu temples in Varanasi",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjC-6hKMV4_IAtbaUgMScUHd8XBjHWJC1qTm4VPKXodPyT0UJCN9Pf&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=List+of+Hindu+temples+in+Varanasi&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDc1iTctNJIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuQEGWSWnWxqcoqRVz9d39AwJd4orSo5x_AUIzdIztCoyqysOB4mm1SeEp9VaJRzihHJCb8YpUIw3BAGdUMDC-MiVkWfzOIShfw0BQ9098CU3WKTZDD92Mqkc2x9wF_-lX7O6ip5i7MS1ObOk1kGAOjdqdDxAAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAR6BAgrEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=List+of+Hindu+temples+in+Varanasi&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDc1iTctNJIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuQEGWSWnWxqcoqRVz9d39AwJd4orSo5x_AUIzdIztCoyqysOB4mm1SeEp9VaJRzihHJCb8YpUIw3BAGdUMDC-MiVkWfzOIShfw0BQ9098CU3WKTZDD92Mqkc2x9wF_-lX7O6ip5i7MS1ObOk1kGAOjdqdDxAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Temples+to+see+in+Varanasi&stick=H4sIAAAAAAAAAOOQMZIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xcirn65vaJgSb5RWlZxjeIqRGyRnaFRlVlYcD5NNKk-Jzyo0yjnFyAWSTTc1iTct_MUoFYLhhjCoGxpYGBex4pG_xSbJYPqxlUnn2PqAv_wr_ZzVVfIWZyWozZ0nswwAk0Hqe94AAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ4qYDegQIKxAH",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Temples+to+see+in+Varanasi&stick=H4sIAAAAAAAAAOOQMZIqSc0tyEktVijJVyhOTVXIzFMoSyxKzEsszoySy8jMSylVgKkASpWWlCQWKRQUJaakFmecYuTUz9U3MMtONjU5xcirn65vaJgSb5RWlZxjeIqRGyRnaFRlVlYcD5NNKk-Jzyo0yjnFyAWSTTc1iTct_MUoFYLhhjCoGxpYGBex4pG_xSbJYPqxlUnn2PqAv_wr_ZzVVfIWZyWozZ0nswwAk0Hqe94AAAA"
+    },
+    {
+      "title": "Hindu temples in Uttar Pradesh mentioned on wikipedia",
+      "items": [
+        {
+          "name": "Banke Bihari Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSmnUGdnBQYQKMJdOGQchHFDoAbBrMhwuP_2zSwPF-SHbbKldEc9MexgAvAVM3n6Uzjk-hOYg5a&s=19",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Banke+Bihari+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCk0TjHLMjLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOSHVCOcXp8hmXlKUZe_XR9Q8OkclNDI7M0i1OMnCBJ85SMtAKoQtOqjJKcSijHqMioJLcQZl5OilGlOZSTbmpcXAnTb1KSlJf7i9HUA91ZoWBnBeD1TQML4yJWYafEvOxUBafMjMSiTIUQsAm32CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkALZ3DX0gBAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAB6BAgxEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Banke+Bihari+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCk0TjHLMjLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOSHVCOcXp8hmXlKUZe_XR9Q8OkclNDI7M0i1OMnCBJ85SMtAKoQtOqjJKcSijHqMioJLcQZl5OilGlOZSTbmpcXAnTb1KSlJf7i9HUA91ZoWBnBeD1TQML4yJWYafEvOxUBafMjMSiTIUQsAm32CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkALZ3DX0gBAAA"
+        },
+        {
+          "name": "Shri Mankames... Mandir",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIF1giOxoKaC2xIoywtTSbJmtPy9wGkr9Soj2KM0eebeZ-K7wggUFM&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Mankameshwar+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME6Pz7CsNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCgHYuEpRl79dH1Dw6RyU0MjszSLU4ycIEnzlIy0AqhC06qMkpxKKMeoyKgktxBmXk6KUaU5lJNualxcCdNvUpKUl_uL0dQD3VmhYGcF4PVNAwvjIlZh38S87MRcoKpyoIYQsAm32CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkA5WSvYEgBAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAF6BAgxEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Mankameshwar+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME6Pz7CsNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCgHYuEpRl79dH1Dw6RyU0MjszSLU4ycIEnzlIy0AqhC06qMkpxKKMeoyKgktxBmXk6KUaU5lJNualxcCdNvUpKUl_uL0dQD3VmhYGcF4PVNAwvjIlZh38S87MRcoKpyoIYQsAm32CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkA5WSvYEgBAAA"
+        },
+        {
+          "name": "Rukmini Devi Mandir",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLg0lB0I6JB_m64RjugyymG9Sw51H5LShEYompKi_INVQc-m-kSz4d&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Rukmini+Devi+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwqNzU0MkuzMDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOXfq6-gUmhcYpZFpRjnB6fYVl5ihHVAacYOUGS5ikZaQVQhaZVGSU5lVCOUZFRSW4hzLycFKNKcygn3dS4uBKm36QkKS_3F6OpB7qzQsHOCsDrmwYWxkWswkGl2bmZeZkKLqllmQohYBNusUkymH5sZeqxvi5V8mj7z6Nnj73faWR90u67hDMAfAQIVUsBAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAJ6BAgxEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Rukmini+Devi+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwqNzU0MkuzMDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOXfq6-gUmhcYpZFpRjnB6fYVl5ihHVAacYOUGS5ikZaQVQhaZVGSU5lVCOUZFRSW4hzLycFKNKcygn3dS4uBKm36QkKS_3F6OpB7qzQsHOCsDrmwYWxkWswkGl2bmZeZkKLqllmQohYBNusUkymH5sZeqxvi5V8mj7z6Nnj73faWR90u67hDMAfAQIVUsBAAA"
+        },
+        {
+          "name": "Sri Varahalak... Narasimha...",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSUI6Llt59FpJY6feO4i8vfcXk1IB2wEMMXz9xrJzpuZ9jzhbHUwUQrPpohHQR2WakCdWcXnn0G&s=19",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Varaha+Lakshmi+Narasimha+temple,+Simhachalam&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME_JSCswMs3IzEspVShJzS3ISS1WyMxTKC0pSSxSKChKTEktzlDITc0ryczPS01RyM9TKM_MzixITclMjJLDr-0UIxfICpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGhGOgCk2rMkpyKqEcoyKjktxCmHk5KUaV5lBOuqlxcSVMv0lJUl7uL0ZTD3RnhYKdFYDXNw0sjItYdcISixIzEhV8ErOLM3IzFfyA3OLMXKAIxDQdhWAQLzkjMScx9xabJIPpx1amHuvrUiWPtv88evbY-51G1iftvks4AwAYR7XdYAEAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAN6BAgxEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Varaha+Lakshmi+Narasimha+temple%2C+Simhachalam&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME_JSCswMs3IzEspVShJzS3ISS1WyMxTKC0pSSxSKChKTEktzlDITc0ryczPS01RyM9TKM_MzixITclMjJLDr-0UIxfICpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGhGOgCk2rMkpyKqEcoyKjktxCmHk5KUaV5lBOuqlxcSVMv0lJUl7uL0ZTD3RnhYKdFYDXNw0sjItYdcISixIzEhV8ErOLM3IzFfyA3OLMXKAIxDQdhWAQLzkjMScx9xabJIPpx1amHuvrUiWPtv88evbY-51G1iftvks4AwAYR7XdYAEAAA"
+        },
+        {
+          "name": "J. K. Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ8oTnQHZyemS_HkbSfNgFtPj-FOvvUde4nNYlxG4mIaP_AQu4ZJD9rxnYQj2C17TAryGGml4Na&s=19",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=J.+K.+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MK3KKMmpNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGTpCkeUpGWgFUIcRlUI5RkVFJbiHMvJwUo0pzKCfd1Li4EqbfpCQpL_cXo6kHurNCwc4KwOubBhbGRaw8XnoK3noKIWCtt9gkGUw_tjL1WF-XKnm0_efRs8fe7zSyPmn3XcIZAKm1F9hBAQAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAR6BAgxEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=J.+K.+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MK3KKMmpNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGTpCkeUpGWgFUIcRlUI5RkVFJbiHMvJwUo0pzKCfd1Li4EqbfpCQpL_cXo6kHurNCwc4KwOubBhbGRaw8XnoK3noKIWCtt9gkGUw_tjL1WF-XKnm0_efRs8fe7zSyPmn3XcIZAKm1F9hBAQAA"
+        },
+        {
+          "name": "Belon Devi Mandir",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpB3fpMuBxwUaceH7T77aHiX2M1d0z2kEsYjpb7zX5OR_eooe_Fj6F&s=0",
+          "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Belon+Devi+Mandir&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoyKsktNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGTpCkeUpGWgFUoWlVRklOJZQDcSbMvJwUo0pzKCfd1Li4EqbfpCQpL_cXo6kHurNCwc4KwOubBhbGRayCTqk5QEGX1LJMBd_EvJTMoltskgymH1uZeqyvS5U82v7z6Nlj73caWZ-0-y7hDADQ1IDuRgEAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQs9oBKAV6BAgxEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Belon+Devi+Mandir&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCoyKsktNDLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCPYDpNC4xSzLCjHOD0-w7LyFCOvfrq-oWFSuamhkVmaxSlGTpCkeUpGWgFUoWlVRklOJZQDcSbMvJwUo0pzKCfd1Li4EqbfpCQpL_cXo6kHurNCwc4KwOubBhbGRayCTqk5QEGX1LJMBd_EvJTMoltskgymH1uZeqyvS5U82v7z6Nlj73caWZ-0-y7hDADQ1IDuRgEAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Hindu+temples+in+Uttar+Pradesh+mentioned+on+wikipedia&stick=H4sIAAAAAAAAAOOQMTLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOXfq6-gUmhcYpZFpRjnB6fYVl5ipFXP13f0DCp3NTQyCzN4hQjJ0jSPCUjrQCq0LQqoySnEsoxKjIqyS2EmZeTYlRpDuWkmxoXV8L0m5Qk5eX-YjT1QHdWKNhZAXh908DCuIiVPK232CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkA8lcWk14BAAA&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ4qYDegQIMRAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=Hindu+temples+in+Uttar+Pradesh+mentioned+on+wikipedia&stick=H4sIAAAAAAAAAOOQMTLNyMxLKVUoSc0tyEktVsjMUygtKUksUigoSkxJLc5QyE3NK8nMz0tNUcjPUyjPzM4sSE3JTIySw6_tFCOXfq6-gUmhcYpZFpRjnB6fYVl5ipFXP13f0DCp3NTQyCzN4hQjJ0jSPCUjrQCq0LQqoySnEsoxKjIqyS2EmZeTYlRpDuWkmxoXV8L0m5Qk5eX-YjT1QHdWKNhZAXh908DCuIiVPK232CQZTD-2MvVYX5cqebT959Gzx97vNLI-afddwhkA8lcWk14BAAA"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 20 Temples in Uttar Pradesh 2021 You Must Visit",
+      "link": "https://www.delhimetrotimes.in/uttar-pradesh/temples-in-uttar-pradesh.html",
+      "displayed_link": "https://www.delhimetrotimes.in › Uttar Pradesh",
+      "thumbnail": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752781220fb47300cac234e064b2564ed7e.jpeg",
+      "date": "09-May-2021",
+      "snippet": "1. The Ritanjaya Mahadev Temple, Uttar Pradesh · 2. Sarnath Temple, Uttar Pradesh · 3. The new Vishwanath Temple, Uttar Pradesh · 4. Visalakshi ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Uttar Pradesh",
+        "Temple",
+        "Uttar Pradesh",
+        "Temple",
+        "Uttar Pradesh"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "delhimetrotimes.in was first indexed by Google in September 2014",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab577524e7f691568c21ef816b0b3b4e4caf623029b232bc1e0d0b2dd1438f2abfade88.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.delhimetrotimes.in/uttar-pradesh/temples-in-uttar-pradesh.html&tbm=ilp&ilps=ADNMCi0dTk1reiSLfv2n6f5tac_uR0ncRw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7DwSyRmJ7x8J:https://www.delhimetrotimes.in/uttar-pradesh/temples-in-uttar-pradesh.html+&cd=4&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 2,
+      "title": "10 Most famous temples in Uttar Pradesh You Should Visit",
+      "link": "https://detechter.com/10-famous-temples-uttar-pradesh-visit/",
+      "displayed_link": "https://detechter.com › Temples",
+      "thumbnail": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab5775295743e57635ace619d2a96299c123497.jpeg",
+      "snippet": "1. Ram Janmabhoomi Temple · 2. Shri Krishna Janmabhoomi Mandir · 3. Gorakhnath Math Temple · 4. Kashi Vishwanath Temple, Varanasi · 5. Banke Bihari Temple, ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Mandir",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Gorakhnath Math Temple",
+            "link": "https://detechter.com/10-famous-temples-uttar-pradesh-visit/#3_Gorakhnath_Math_Temple"
+          },
+          {
+            "title": "Banke Bihari Temple, Vrindavan",
+            "link": "https://detechter.com/10-famous-temples-uttar-pradesh-visit/#5_Banke_Bihari_Temple_Vrindavan"
+          },
+          {
+            "title": "Sarnath Temple",
+            "link": "https://detechter.com/10-famous-temples-uttar-pradesh-visit/#6_Sarnath_Temple"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "detechter.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752d4409a5d58f45febe365c8d1179369a8558f2c4102279e32f74ec004a8b0d174.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://detechter.com/10-famous-temples-uttar-pradesh-visit/&tbm=ilp&ilps=ADNMCi04SYzc5jQz4H8zWbWegRa9fvos4w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B8bOQbvnwngJ:https://detechter.com/10-famous-temples-uttar-pradesh-visit/+&cd=5&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 3,
+      "title": "Category:Hindu temples in Uttar Pradesh - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Category:Hindu_temples_in_Uttar_Pradesh",
+      "displayed_link": "https://en.wikipedia.org › wiki › Category:Hindu_templ...",
+      "snippet": "A. Alopi Devi Mandir ; B · Baba Gangeshwarnath Dham · Bateshwar, Uttar Pradesh · Bhandari Devi temple · Bhitargaon · Bhrigu Ashram (Ballia) · Brahma Kuti Temple ...",
+      "snippet_highlighted_words": [
+        "Mandir",
+        "Uttar Pradesh",
+        "temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab5775249152778a0cba7522068103166f96e4d7171d8c0fab3d006816a4641910ebd5f.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://en.wikipedia.org/wiki/Category:Hindu_temples_in_Uttar_Pradesh&tbm=ilp&ilps=ADNMCi0KZzoWPUcHVuvbxu3Cew4qTjlkeQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:I-aDVxnS5UAJ:https://en.wikipedia.org/wiki/Category:Hindu_temples_in_Uttar_Pradesh+&cd=6&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=related:https://en.wikipedia.org/wiki/Category:Hindu_temples_in_Uttar_Pradesh+hindu+temples+in+uttar+pradesh"
+    },
+    {
+      "position": 4,
+      "title": "10 Famous Temples in Uttar Pradesh - UPOnline",
+      "link": "https://www.uponline.in/about/tourism/10-famous-temples-in-uttar-pradesh",
+      "displayed_link": "https://www.uponline.in › about › tourism › 10-famous...",
+      "snippet": "10 Famous Temples in Uttar Pradesh · Ram Janmabhoomi Temple in Ayodhya · Baldev Dauji Temple near Mathura · Banke Bihari Temple in Vrindavan · Dwarkadheesh Mandir ...",
+      "snippet_highlighted_words": [
+        "Temples in Uttar Pradesh",
+        "Temple",
+        "Temple",
+        "Temple",
+        "Mandir"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "uponline.in was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752d74e7ccb608aef19483714e70e92e2e910747d6e146381f28049ef056b25bf34.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.uponline.in/about/tourism/10-famous-temples-in-uttar-pradesh&tbm=ilp&ilps=ADNMCi0Ng8ndFGf7uhubgvrmDlcctASNvA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gg_62W65dwgJ:https://www.uponline.in/about/tourism/10-famous-temples-in-uttar-pradesh+&cd=7&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 5,
+      "title": "Famous Temples in Uttar pradesh - The Divine India",
+      "link": "https://www.thedivineindia.com/temples-list/uttar-pradesh/page/1.html",
+      "displayed_link": "https://www.thedivineindia.com › uttar-pradesh › page",
+      "date": "54 Results",
+      "snippet": "Famous Temples in Uttar pradesh ; Gola Gokaran Nath Temple · Gola Gokaran Nath Temple ; Chopla Hanuman Mandir · Chopla Hanuman Mandir ; Puramahadev Temple.",
+      "snippet_highlighted_words": [
+        "Temples in Uttar pradesh",
+        "Temple",
+        "Temple",
+        "Mandir",
+        "Mandir",
+        "Temple"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Somvar Vrat Katha and Worship"
+          },
+          {
+            "date": "Mangala Gauri Fast 2022"
+          },
+          {
+            "date": "Kamika Ekadashi 2022"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "mon_jul": null,
+            "tue_jul": null,
+            "mangala_gauri_fast": 2022,
+            "sun_jul": null,
+            "kamika_ekadashi": 2022
+          },
+          "extensions": [
+            "Mon, 18 Jul",
+            "Somvar Vrat Katha and Worship",
+            "Tue, 19 Jul",
+            "Mangala Gauri Fast 2022",
+            "Sun, 24 Jul",
+            "Kamika Ekadashi 2022"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "thedivineindia.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752b4853215e35dac4603c325bcf7ddad842901fcc942c193ef2c5dee16d8919fe4.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.thedivineindia.com/temples-list/uttar-pradesh/page/1.html&tbm=ilp&ilps=ADNMCi1dyZM6zCuL5JzWmxqvP0UDHBH-0Q",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0Gu-MBUTr6gJ:https://www.thedivineindia.com/temples-list/uttar-pradesh/page/1.html+&cd=8&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 6,
+      "title": "36 Hindu Temples in Uttar Pradesh and how to visit them",
+      "link": "https://www.travalour.com/destination/799-uttar-pradesh/46-hindu-temples-in-uttar-pradesh",
+      "displayed_link": "https://www.travalour.com › ... › India › Uttar Pradesh",
+      "snippet": "36 Hindu Temples to explore in Uttar Pradesh ; ©Jeeteshvaishya ,This fil... Baba Bhayaharannath Dham Chitranjan (Garam Mashala)Saroorpur Kalan, Uttar Pradesh ...",
+      "snippet_highlighted_words": [
+        "Hindu Temples",
+        "Uttar Pradesh",
+        "Uttar Pradesh"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "travalour.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752cf337c1cd049d89ef9847fccce8189761b098bddd0d3880cc1291982d885f591.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.travalour.com/destination/799-uttar-pradesh/46-hindu-temples-in-uttar-pradesh&tbm=ilp&ilps=ADNMCi184LgpsdVQlix1BZLsCIn0KccQag",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rowTXEfwcwIJ:https://www.travalour.com/destination/799-uttar-pradesh/46-hindu-temples-in-uttar-pradesh+&cd=9&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 7,
+      "title": "9 Famous Temples in Uttar Pradesh To Visit | Styles At Life",
+      "link": "https://stylesatlife.com/articles/temples-in-uttar-pradesh/",
+      "displayed_link": "https://stylesatlife.com › Travel › Temples",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6r6YKiSVfaQjyQWi-IzZoG_hxFV1r0h9X1tfX87Y47CibRPxE3dqX&usqp=CAE&s",
+      "date": "02-Nov-2021",
+      "snippet": "Famous Temples in Uttar Pradesh: · 1. Augharnath Temple: · 2. Ayodhya Ram Janmabhoomi Temple: · 3. Baladev Dauji Temple: · 4. Banke Bihari Temple:.",
+      "snippet_highlighted_words": [
+        "Temples in Uttar Pradesh",
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "stylesatlife.com was first indexed by Google in September 2013",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab577525656ecd76b26a8e6da1b20dbee2476a8ff898388389c0628cbea460d9c4bf256.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://stylesatlife.com/articles/temples-in-uttar-pradesh/&tbm=ilp&ilps=ADNMCi26T814cu_tMPe3c2lEo-FillTNpA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ahs1-WBrQjMJ:https://stylesatlife.com/articles/temples-in-uttar-pradesh/+&cd=10&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 8,
+      "title": "Travel to the 6 Famous Temples of Uttar Pradesh",
+      "link": "https://www.nativeplanet.com/travel-guide/famous-temples-uttar-pradesh-001204.html",
+      "displayed_link": "https://www.nativeplanet.com › travel-guide › famous-t...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdGN7QePYyV28roKyuIX8_NLVkjdjgJQ_PiFm6ZzT68T7re48RLCU&usqp=CAE&s",
+      "date": "21-May-2018",
+      "snippet": "Travel to the 6 Famous Temples of Uttar Pradesh · Prem Mandir · Banke Bihari Temple · Goraknath Temple · Ram Janma Bhoomi · Kesava Deo Temple.",
+      "snippet_highlighted_words": [
+        "Temples",
+        "Uttar Pradesh",
+        "Mandir",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "nativeplanet.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752f5cc1b0cf9bf2105afe92b9f7a56ffb9c7bfc3abb26419525b59a9f948774f74.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.nativeplanet.com/travel-guide/famous-temples-uttar-pradesh-001204.html&tbm=ilp&ilps=ADNMCi3bDSs8EStWucMTGws7D7DmECldMg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5EIzwjPfhBUJ:https://www.nativeplanet.com/travel-guide/famous-temples-uttar-pradesh-001204.html+&cd=14&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 9,
+      "title": "Temples of Uttar Pradesh - Info, History, Timing, Photos, ...",
+      "link": "https://www.templepurohit.com/hindu-temples/uttar-pradesh/",
+      "displayed_link": "https://www.templepurohit.com › hindu-temples › uttar...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxvnG135bd3F0tSJ2K4j8kaotXV8zH7jJ4CRiqUCSen6Qn96rkRMs&usqp=CAE&s",
+      "snippet": "Uttar Pradesh · Vindhyavasini Vindhyachal · Sri Ranganatha Temple, Vrindavan Vrindavan · Radha Damodar Mandir, Vrindavan Vrindavan · Sri Katyayani Peeth, Vrindavan ...",
+      "snippet_highlighted_words": [
+        "Uttar Pradesh",
+        "Temple",
+        "Mandir"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "templepurohit.com was first indexed by Google in March 2015",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752a6502320635a0fa596f71915c262855154155732b672775178bb36240e94e93b.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.templepurohit.com/hindu-temples/uttar-pradesh/&tbm=ilp&ilps=ADNMCi3o-bWxVtCCOgO2YUO19o4YJvcqZg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y2m_3tK5RsgJ:https://www.templepurohit.com/hindu-temples/uttar-pradesh/+&cd=15&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 10,
+      "title": "Uttar Pradesh Temples India, Temples In Uttar Pradesh, List of ...",
+      "link": "https://www.indianmirror.com/temples/uttar-pradesh.html",
+      "displayed_link": "https://www.indianmirror.com › temples › uttar-pradesh",
+      "snippet": "Uttar Pradesh is famous for its temples and architectural expertise. Some of the famous temples in uttar pradesh are aurugnath temple, ...",
+      "snippet_highlighted_words": [
+        "Uttar Pradesh",
+        "temples",
+        "temples in uttar pradesh",
+        "temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "indianmirror.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab577525902946f18c0a1d3f5d7305a271abcd3e0c88d67fdc705b2c113743d6125748b.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.indianmirror.com/temples/uttar-pradesh.html&tbm=ilp&ilps=ADNMCi1ZJEA2xF0jE03D2spnb2byokf3FQ",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0llmB17ZpOgJ:https://www.indianmirror.com/temples/uttar-pradesh.html+&cd=16&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 11,
+      "title": "Temples Of Importance - Varanasi",
+      "link": "https://varanasi.nic.in/temples-of-importance/",
+      "displayed_link": "https://varanasi.nic.in › temples-of-importance",
+      "snippet": "Besides the Assi river stream, on the way of Durga Temple to Banaras Hindu Temple this well known temple of Lord Hanuman is situated.",
+      "snippet_highlighted_words": [
+        "Hindu Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "varanasi.nic.in was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab5775205fcfb21020531d601ce1ada8deff6bf16497be5633ba61d45c5b5aa8be433120523d22f24492683.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://varanasi.nic.in/temples-of-importance/&tbm=ilp&ilps=ADNMCi2-7BJetsYI2xzXk7-OxKBJQMyW4A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:icoJo2CK5VsJ:https://varanasi.nic.in/temples-of-importance/+&cd=17&hl=en&ct=clnk&gl=in",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Shree Kashi Vishvanath Temple - Varanasi",
+          "link": "https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/",
+          "displayed_link": "https://varanasi.nic.in › shri-kashi-vishwanath-temple",
+          "snippet": "Kashi Vishvanath Temple is one of the most famous Hindu temples dedicated to Lord Shiva. It is located in Varanasi, Uttar Pradesh, India. The temple stands ...",
+          "snippet_highlighted_words": [
+            "Hindu temples",
+            "Uttar Pradesh"
+          ],
+          "about_this_result": {
+            "source": {
+              "description": "varanasi.nic.in was first indexed by Google more than 10 years ago",
+              "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752c6317915694a263b5df9cb928a4a39eff940e8816f841903337c418f6363e9773b467e0d89602b33b357bbf79a3fc55c604243ad3ec84891.jpeg"
+            }
+          },
+          "about_page_link": "https://www.google.co.in/search?q=About+https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/&tbm=ilp&ilps=ADNMCi3dnSRInE5EPuDPJpyNIRd3peHmxg",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AeaVaGBJmSAJ:https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/+&cd=18&hl=en&ct=clnk&gl=in"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "title": "religious places in uttar pradesh tourism - India.com",
+      "link": "https://www.india.com/travel/explore/religious-places-uttar-pradesh/",
+      "displayed_link": "https://www.india.com › Travel › Explore",
+      "snippet": "Devotees usually follow the dip in the Ganga with a visit to the nearby temples to pay their respects to Shiva, a respected deity in Hinduism. Varanasi's ...",
+      "snippet_highlighted_words": [
+        "temples",
+        "Hinduism"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "india.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab577525b89d1f0d47a66dc527789bda5f30bb414fec057a4b1e260162c3bcccbc318b2b8c6832740c50999.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.india.com/travel/explore/religious-places-uttar-pradesh/&tbm=ilp&ilps=ADNMCi2g7tITGi2lTX3UbOZ91AcsHUG2Ag",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WEJRJ53cQ58J:https://www.india.com/travel/explore/religious-places-uttar-pradesh/+&cd=19&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 13,
+      "title": "The Top 5 Temples in Uttar Pradesh - My Tirth India",
+      "link": "https://www.mytirthindia.com/blog/the-top-5-temples-in-uttar-pradesh/",
+      "displayed_link": "https://www.mytirthindia.com › blog › the-top-5-templ...",
+      "date": "11-Apr-2021",
+      "snippet": "The Top 5 Temples in Uttar Pradesh are Shri Krishna Janmabhoomi Temple, Ram Janmabhoomi Temple, Kashi Vishwanath Temple, Vindyavasini Temple ...",
+      "snippet_highlighted_words": [
+        "Temples in Uttar Pradesh",
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "mytirthindia.com was first indexed by Google in August 2019",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752e248b76ca1930f847ed7f2531aace21985aa8f7e25d593841055f87179cb6fd9f18fbb77873e0184.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.mytirthindia.com/blog/the-top-5-temples-in-uttar-pradesh/&tbm=ilp&ilps=ADNMCi0LCkOEIgW3tZfIH-ykv24VrupLww",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0GdAbyiEJsQJ:https://www.mytirthindia.com/blog/the-top-5-temples-in-uttar-pradesh/+&cd=20&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 14,
+      "title": "Some Famous Temples in Uttar Pradesh",
+      "link": "http://www.discoveredindia.com/uttar-pradesh/attractions/temples/",
+      "displayed_link": "http://www.discoveredindia.com › attractions › temples",
+      "snippet": "One of the holiest towns in the state is Varanasi. The most sacred temple for Hindus all over the world, Kashi Vishwanath temple, is located here. The place is ...",
+      "snippet_highlighted_words": [
+        "temple",
+        "Hindus",
+        "temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "discoveredindia.com was first indexed by Google more than 10 years ago"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+http://www.discoveredindia.com/uttar-pradesh/attractions/temples/&tbm=ilp&ilps=ADNMCi23bP3UTX1vYADNIxsJTMLkbUirZw",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ov2cSjYOoP0J:www.discoveredindia.com/uttar-pradesh/attractions/temples/+&cd=21&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 15,
+      "title": "10 Lesser-Known Hindu Pilgrimage Sites In Uttar Pradesh ...",
+      "link": "https://www.herzindagi.com/diary/10-lesser-known-hindu-pilgrimage-sites-in-uttar-pradesh-you-must-visit-article-165094",
+      "displayed_link": "https://www.herzindagi.com › ... › Travel › Travel Diary",
+      "date": "15-Oct-2020",
+      "snippet": "Saryu River · Vindhyavasini Devi Temple · Kashi Vishwanath Temple · Hanuman Garhi · Kusum Sarovar · Ramkot Fort · Mathura · Keshi Ghat.",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "herzindagi.com was first indexed by Google in August 2017",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752479d4db3174151dcce044974f911b415e09bf80837695bb79e0bb92c6bfd1fab908c02d715dae3c7.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.herzindagi.com/diary/10-lesser-known-hindu-pilgrimage-sites-in-uttar-pradesh-you-must-visit-article-165094&tbm=ilp&ilps=ADNMCi20JihARjSk8Ly0--MXtmadnbMw-w",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:laNwLL3cyhoJ:https://www.herzindagi.com/diary/10-lesser-known-hindu-pilgrimage-sites-in-uttar-pradesh-you-must-visit-article-165094+&cd=22&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 16,
+      "title": "Popular Hindu Pilgrimage Sites in Uttar Pradesh - Tour My India",
+      "link": "https://www.tourmyindia.com/states/uttarpradesh/hindu-pilgrimages.html",
+      "displayed_link": "https://www.tourmyindia.com › states › hindu-pilgrima...",
+      "snippet": "Out of many Hindu temples to visit in both the cities, the ones popular in Mathura are Shri Krishna Janmabhoomi Temple, Shri Dwarkadheesh Temple, Gita Temple, ...",
+      "snippet_highlighted_words": [
+        "Hindu temples"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "tourmyindia.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab577527b7051b23b79bb04dfdca2373b6c67390e9e8492b08626fe86865a6fcb7faca0564714189db1929e.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.tourmyindia.com/states/uttarpradesh/hindu-pilgrimages.html&tbm=ilp&ilps=ADNMCi1jgbfHvYfFp-fTQ8fDsISDadXT3A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WdDAp0wXF4kJ:https://www.tourmyindia.com/states/uttarpradesh/hindu-pilgrimages.html+&cd=23&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 17,
+      "title": "5000 temples in Uttar Pradesh in the crosshair of the Yogi ...",
+      "link": "https://www.nationalheraldindia.com/india/5000-temples-in-uttar-pradesh-in-the-crosshair-of-the-yogi-government",
+      "displayed_link": "https://www.nationalheraldindia.com › NEWS › India",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_VG8OkEnhAtGeFgkJpwX2uQqJR1bJZqvbBtExawbyXqapIzqFqgS&usqp=CAE&s",
+      "snippet": "5000 temples in Uttar Pradesh in the crosshair of the Yogi government · A survey being conducted by the UP State Law Commission to collect information about' ...",
+      "snippet_highlighted_words": [
+        "temples in Uttar Pradesh"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "nationalheraldindia.com was first indexed by Google in November 2016",
+          "icon": "https://serpapi.com/searches/62d5881479627ca39f53c64a/images/7a3ebfea60b5b800274c9ad59ab57752851f36f9e84a3f154edc5f96d43686b0b402cf6c49cfa230261998e003bec838ac1dd2360ecb8a5b.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.nationalheraldindia.com/india/5000-temples-in-uttar-pradesh-in-the-crosshair-of-the-yogi-government&tbm=ilp&ilps=ADNMCi0vxeTBsSw3o6pvwVrIQsuerbFNeA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:66ETbbUvjtUJ:https://www.nationalheraldindia.com/india/5000-temples-in-uttar-pradesh-in-the-crosshair-of-the-yogi-government+&cd=24&hl=en&ct=clnk&gl=in"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "uttar pradesh temple list",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Uttar+Pradesh+Temple+list&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhYEAE"
+    },
+    {
+      "query": "how many temples in uttar pradesh",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=How+many+temples+in+Uttar+Pradesh&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhWEAE"
+    },
+    {
+      "query": "famous temples in uttarakhand",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Famous+temples+in+Uttarakhand&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhiEAE"
+    },
+    {
+      "query": "shiv temple in uttar pradesh",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Shiv+Temple+in+uttar+Pradesh&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhdEAE"
+    },
+    {
+      "query": "famous temples in madhya pradesh",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Famous+temples+in+Madhya+Pradesh&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhaEAE"
+    },
+    {
+      "query": "oldest temple in uttar pradesh",
+      "link": "https://www.google.co.in/search?num=20&ucbcb=1&gl=in&hl=en&q=Oldest+temple+in+Uttar+Pradesh&sa=X&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ1QJ6BAhfEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=20&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8NMDegQIARBK",
+    "other_pages": {
+      "2": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=20&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARA-",
+      "3": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=40&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARBA",
+      "4": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=60&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARBC",
+      "5": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=80&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARBE",
+      "6": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=100&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARBG",
+      "7": "https://www.google.co.in/search?q=hindu+temples+in+uttar+pradesh&num=20&ucbcb=1&gl=in&hl=en&ei=FYjVYp7zArrHkPIPzZqluAY&start=120&sa=N&ved=2ahUKEwje0czd64L5AhW6I0QIHU1NCWcQ8tMDegQIARBI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=20",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=20",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=20",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=40",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=60",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=80",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=100",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=20&q=hindu+temples+in+uttar+pradesh&start=120"
+    }
+  }
+}
